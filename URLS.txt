@@ -1,0 +1,5 @@
+https://zonaliados.mapfre.com.mx/Zonaliados.Negocio/Api/Impresion?num_cotizacion=2341018607327&descarga=1&paquete=T&formapago=T&paqsel=1&pagsel=&cot_sel=2341018607327
+misCotizaciones.js:128 
+https://zonaliados.mapfre.com.mx/Zonaliados.Negocio/Api/Impresion?num_cotizacion=2341018607509&descarga=1&paquete=T&formapago=T&paqsel=1&pagsel=&cot_sel=2341018607509
+misCotizaciones.js:128 
+https://zonaliados.mapfre.com.mx/Zonaliados.Negocio/Api/Impresion?num_cotizacion=2341018637648&descarga=1&paquete=T&formapago=T&paqsel=1&pagsel=&cot_sel=2341018637648
